@@ -6,5 +6,5 @@ https://dotnet.microsoft.com/download //.NET download
 
 -download repo files 
 
--open terminal where files reside and dotnet build to check out the REST API 
+-open terminal where the files reside and run: "dotnet build" to check out the REST API 
 
