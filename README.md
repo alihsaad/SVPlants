@@ -1,5 +1,5 @@
 # SVPlants
-Code Challenge Submission for ShopVista 
+Code Challenge Submission for ShipVista 
 
 -download .NET 5.0 
 https://dotnet.microsoft.com/download //.NET download 
