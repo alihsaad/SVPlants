@@ -1,4 +1,4 @@
-////////////Sources here 
+
 -download .NET 5.0 
 https://dotnet.microsoft.com/download //.NET download 
 
@@ -8,7 +8,7 @@ https://dotnet.microsoft.com/download //.NET download
 
 
 
-
+Sources HERE!
 
 //C# Coding Conventions 
 https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
