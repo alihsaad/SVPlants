@@ -1,0 +1,40 @@
+-download .NET 5.0 
+https://dotnet.microsoft.com/download //.NET download 
+
+-download repo files 
+
+-open terminal where files reside and dotnet build to check out the REST API 
+
+
+
+
+
+//C# Coding Conventions 
+https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+
+
+
+
+
+//REST API with .NET Core 
+https://docs.microsoft.com/en-ca/learn/modules/build-web-api-aspnet-core/ 
+
+
+//.NET Tasks for async operations 
+https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=net-5.0  
+
+//.NET Task Cancellations
+https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap#cancellation-optional
+
+
+
+//////////////REACT
+
+https://jonhilton.net/connecting-react-to-asp-net-core-web-api/ //React Connection 
+
+
+
+
+///////REACT REDUX READING 
+https://livebook.manning.com/book/redux-in-action/chapter-2/
+https://redux.js.org/tutorials/fundamentals/part-6-async-logic //Redux Async 
